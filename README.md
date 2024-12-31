@@ -1,8 +1,8 @@
-# Varad's Music Player
+# Audivine Music Player
 
 A modern YouTube music player built with Python and Tkinter that allows you to search, queue, and play music from YouTube. Features voice search and a sleek dark theme interface.
 
-![image](https://github.com/user-attachments/assets/707c0486-34e4-4636-8f8c-24b627e24ed1)
+![image](https://github.com/user-attachments/assets/8417d96c-66fa-4bf8-85ff-145434299d88)
 
 ## Features
 
