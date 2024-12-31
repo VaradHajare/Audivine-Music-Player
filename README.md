@@ -2,6 +2,8 @@
 
 A modern YouTube music player built with Python and Tkinter that allows you to search, queue, and play music from YouTube.
 
+![image](https://github.com/user-attachments/assets/ce1d086c-49fc-44bc-a495-11fb41c76a56)
+
 ## Features
 
 - 🔍 Search and play music directly from YouTube
