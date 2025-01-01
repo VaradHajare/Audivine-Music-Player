@@ -1,6 +1,6 @@
 # Audivine Music Player
 
-A modern YouTube music player built with Python and Tkinter that allows you to search, queue, and play music from YouTube. Features voice search and a sleek dark theme interface.
+A modern YouTube music player built with Python and Tkinter that allows you to search, queue, and play music from YouTube.
 
 ![image](https://github.com/user-attachments/assets/8417d96c-66fa-4bf8-85ff-145434299d88)
 
@@ -9,12 +9,9 @@ A modern YouTube music player built with Python and Tkinter that allows you to s
 - 🔍 Search and play music directly from YouTube
 - 🎤 Voice search functionality
 - 📋 Queue management with add/remove functionality
-- ⏯️ Fluid playback controls (play/pause, previous, next, stop)
 - 🔁 Queue replay toggle
 - 🎚️ Volume control (syncs with system volume)
-- ⌨️ Keyboard shortcuts for easy control
 - 🎨 Modern dark theme interface
-- 🖱️ Responsive buttons with hover effects
 
 ## Keyboard Shortcuts
 
@@ -83,7 +80,6 @@ A modern YouTube music player built with Python and Tkinter that allows you to s
 - Previous: Go to previous song or restart current song
 - Next: Skip to next song in queue
 - Stop: Stop playback completely
-- Fluid button animations and visual feedback
 
 ### Queue Management
 - Click any song in the queue to play it
